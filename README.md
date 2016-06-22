@@ -143,6 +143,7 @@ x1、y1 代表控制点的 x、y，即一个控制点动态图中的P1，x2、y2
  
  
  ###三阶贝塞尔曲线
+ 
  ![](https://doulala1986.gitbooks.io/doulala-android-tech/content/root/3.UI%E5%8F%8AView/20150719190508446.gif)
 
 **cubicTo(float x1, float y1, float x2, float y2, float x3, float y3)**
