@@ -134,7 +134,7 @@ private AnimationListener.Stop stopListener = new AnimationListener.Stop() {
  
  ###二阶贝塞尔曲线
  
- ![](20150719190450255.gif)
+ ![](https://doulala1986.gitbooks.io/doulala-android-tech/content/root/3.UI%E5%8F%8AView/20150719190450255.gif)
  
  
 **quadTo(float x1, float y1, float x2, float y2)**
@@ -143,7 +143,7 @@ x1、y1 代表控制点的 x、y，即一个控制点动态图中的P1，x2、y2
  
  
  ###三阶贝塞尔曲线
- ![](20150719190508446.gif)
+ ![](https://doulala1986.gitbooks.io/doulala-android-tech/content/root/3.UI%E5%8F%8AView/20150719190508446.gif)
 
 **cubicTo(float x1, float y1, float x2, float y2, float x3, float y3)**
 
@@ -153,7 +153,7 @@ x3、y3 代表目标点的 x、y；
  
  我们使用贝塞尔二阶曲线绘制一个心形路径，设计图如下。
  
- ![](7D9C0411-1FBB-44EE-A1C6-FF0788C19DA2.png)
+ ![](https://doulala1986.gitbooks.io/doulala-android-tech/content/root/3.UI%E5%8F%8AView/7D9C0411-1FBB-44EE-A1C6-FF0788C19DA2.png)
  
  
  ```
